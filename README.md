@@ -24,7 +24,7 @@ The project is organized into the following files:
 To use this project, ensure you have a Snowflake account and environment set up. Then, follow these steps:
 1. Execute 'create_warehouse_and_database.sql' to create the warehouse and database.
 2. Run 'create_schema.sql' to set up the schema.
-3. Use 'create_table_and_load_data.sql' to create the table and load data from `SuperStoreOrders.csv`.
+3. Use 'create_table_and_load_data.sql' to create the table and load data from 'SuperStoreOrders.csv'.
 4. Run 'update_data.sql' to add calculated metrics to the data.
 5. Execute queries in 'sales_analysis.sql' to analyze the data.
 
